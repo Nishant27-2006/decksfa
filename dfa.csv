@@ -1,0 +1,1001 @@
+Recipient_ID,Volunteer_ID,Location,Role,Card_Received,Stress_Level_Before_Card,Stress_Level_After_Card,Job_Satisfaction_Before_Card,Job_Satisfaction_After_Card,Volunteer_Participation,Volunteer_Motivation_Score,Emotional_Response_Score
+R0001,V0001,"Houston, TX",Police Officer,Yes,6,3,7,7,2,4,7
+R0002,V0002,"Houston, TX",Police Officer,Yes,2,3,4,9,15,7,8
+R0003,V0003,"Houston, TX",Educator,No,8,8,9,4,18,9,8
+R0004,V0004,"Houston, TX",Educator,Yes,4,10,1,10,6,1,10
+R0005,V0005,"Houston, TX",Healthcare Worker,No,10,10,3,10,16,3,6
+R0006,V0006,"Houston, TX",Police Officer,Yes,7,7,7,1,13,3,2
+R0007,V0007,"Houston, TX",Educator,Yes,6,10,10,7,17,2,9
+R0008,V0008,"Houston, TX",Educator,No,2,4,4,10,1,5,8
+R0009,V0009,"Houston, TX",Police Officer,Yes,8,8,1,8,19,1,8
+R0010,V0010,"Houston, TX",Educator,Yes,7,7,4,8,18,5,8
+R0011,V0011,"Houston, TX",Healthcare Worker,Yes,4,4,6,3,16,5,9
+R0012,V0012,"Houston, TX",Educator,Yes,8,5,9,3,8,5,7
+R0013,V0013,"Houston, TX",Healthcare Worker,Yes,1,9,2,8,17,4,8
+R0014,V0014,"Houston, TX",Educator,No,4,4,5,1,12,8,5
+R0015,V0015,"Houston, TX",Healthcare Worker,No,7,6,2,6,1,2,7
+R0016,V0016,"Houston, TX",Educator,Yes,9,5,1,6,13,7,7
+R0017,V0017,"Houston, TX",Healthcare Worker,No,10,2,6,3,13,1,7
+R0018,V0018,"Houston, TX",Police Officer,Yes,5,2,10,8,18,5,8
+R0019,V0019,"Houston, TX",Healthcare Worker,Yes,7,2,3,2,7,7,10
+R0020,V0020,"Houston, TX",Healthcare Worker,No,9,3,8,5,10,1,9
+R0021,V0021,"Houston, TX",Police Officer,Yes,4,6,5,2,15,4,7
+R0022,V0022,"Houston, TX",Educator,Yes,10,9,4,8,14,9,8
+R0023,V0023,"Houston, TX",Healthcare Worker,Yes,3,9,7,2,7,9,9
+R0024,V0024,"Houston, TX",Educator,Yes,8,5,9,6,8,10,8
+R0025,V0025,"Houston, TX",Healthcare Worker,Yes,2,9,8,2,5,5,8
+R0026,V0026,"Houston, TX",Healthcare Worker,Yes,7,9,3,7,3,3,8
+R0027,V0027,"Houston, TX",Police Officer,No,5,10,2,10,18,5,8
+R0028,V0028,"Houston, TX",Healthcare Worker,No,9,10,10,2,15,5,10
+R0029,V0029,"Houston, TX",Police Officer,No,3,8,8,7,1,4,3
+R0030,V0030,"Houston, TX",Healthcare Worker,No,10,1,4,10,11,8,10
+R0031,V0031,"Houston, TX",Educator,No,5,6,2,3,3,6,4
+R0032,V0032,"Houston, TX",Police Officer,No,7,8,5,2,13,2,7
+R0033,V0033,"Houston, TX",Healthcare Worker,No,1,4,3,3,4,1,8
+R0034,V0034,"Houston, TX",Healthcare Worker,No,4,8,6,4,19,7,7
+R0035,V0035,"Houston, TX",Healthcare Worker,Yes,5,3,6,1,8,4,10
+R0036,V0036,"Houston, TX",Educator,No,1,4,3,1,11,8,7
+R0037,V0037,"Houston, TX",Healthcare Worker,No,5,1,8,5,13,10,9
+R0038,V0038,"Houston, TX",Police Officer,No,7,6,2,3,19,7,7
+R0039,V0039,"Houston, TX",Police Officer,Yes,8,4,4,2,8,10,9
+R0040,V0040,"Houston, TX",Police Officer,Yes,9,4,7,5,5,4,7
+R0041,V0041,"Houston, TX",Healthcare Worker,Yes,4,4,10,5,10,8,7
+R0042,V0042,"Houston, TX",Police Officer,No,4,1,3,1,12,10,5
+R0043,V0043,"Houston, TX",Healthcare Worker,No,10,6,3,10,8,4,6
+R0044,V0044,"Houston, TX",Educator,Yes,10,1,4,5,12,3,8
+R0045,V0045,"Houston, TX",Educator,No,8,8,5,6,7,1,10
+R0046,V0046,"Houston, TX",Police Officer,Yes,2,2,10,9,3,1,10
+R0047,V0047,"Houston, TX",Police Officer,Yes,5,8,4,10,10,6,4
+R0048,V0048,"Houston, TX",Educator,No,6,4,1,3,1,4,3
+R0049,V0049,"Houston, TX",Educator,No,5,3,2,5,9,5,7
+R0050,V0050,"Houston, TX",Police Officer,No,3,3,8,8,18,9,9
+R0051,V0051,"Houston, TX",Police Officer,No,8,4,8,6,4,3,9
+R0052,V0052,"Houston, TX",Police Officer,No,8,3,9,6,19,10,8
+R0053,V0053,"Houston, TX",Healthcare Worker,No,4,4,3,10,1,7,9
+R0054,V0054,"Houston, TX",Police Officer,No,7,2,9,9,14,2,9
+R0055,V0055,"Houston, TX",Police Officer,No,10,10,5,10,2,2,10
+R0056,V0056,"Houston, TX",Police Officer,Yes,9,10,9,8,4,5,9
+R0057,V0057,"Houston, TX",Healthcare Worker,Yes,3,9,1,1,11,6,10
+R0058,V0058,"Houston, TX",Police Officer,Yes,4,4,10,7,4,6,10
+R0059,V0059,"Houston, TX",Police Officer,Yes,2,7,3,6,5,2,8
+R0060,V0060,"Houston, TX",Healthcare Worker,No,9,8,2,2,12,6,10
+R0061,V0061,"Houston, TX",Police Officer,Yes,4,4,1,7,5,7,9
+R0062,V0062,"Houston, TX",Healthcare Worker,No,7,1,8,8,5,10,8
+R0063,V0063,"Houston, TX",Healthcare Worker,Yes,1,6,9,7,7,9,10
+R0064,V0064,"Houston, TX",Police Officer,No,7,3,8,2,14,2,10
+R0065,V0065,"Houston, TX",Educator,No,3,7,1,4,1,9,9
+R0066,V0066,"Houston, TX",Educator,No,4,4,6,4,7,5,9
+R0067,V0067,"Houston, TX",Police Officer,No,2,1,2,1,17,4,10
+R0068,V0068,"Houston, TX",Educator,Yes,8,3,2,7,17,10,9
+R0069,V0069,"Houston, TX",Police Officer,Yes,9,6,8,10,6,9,8
+R0070,V0070,"Houston, TX",Educator,No,2,2,6,7,19,8,10
+R0071,V0071,"Houston, TX",Police Officer,No,10,6,10,4,13,3,7
+R0072,V0072,"Houston, TX",Healthcare Worker,No,7,9,6,6,8,6,8
+R0073,V0073,"Houston, TX",Police Officer,No,1,5,9,4,15,4,10
+R0074,V0074,"Houston, TX",Police Officer,Yes,1,4,8,3,6,3,5
+R0075,V0075,"Houston, TX",Police Officer,Yes,8,3,8,7,12,7,9
+R0076,V0076,"Houston, TX",Police Officer,No,8,5,1,1,13,3,7
+R0077,V0077,"Houston, TX",Healthcare Worker,No,3,4,10,5,13,10,8
+R0078,V0078,"Houston, TX",Police Officer,No,2,8,9,7,14,5,10
+R0079,V0079,"Houston, TX",Police Officer,No,9,10,2,8,11,1,9
+R0080,V0080,"Houston, TX",Healthcare Worker,No,2,6,7,1,2,8,7
+R0081,V0081,"Houston, TX",Police Officer,No,9,7,4,5,8,2,7
+R0082,V0082,"Houston, TX",Police Officer,No,2,10,9,8,6,4,10
+R0083,V0083,"Houston, TX",Educator,Yes,9,4,3,3,16,6,8
+R0084,V0084,"Houston, TX",Police Officer,No,3,9,2,9,3,9,10
+R0085,V0085,"Houston, TX",Educator,Yes,1,5,9,8,13,1,8
+R0086,V0086,"Houston, TX",Healthcare Worker,Yes,5,6,4,2,13,1,8
+R0087,V0087,"Houston, TX",Healthcare Worker,Yes,8,6,4,7,13,8,10
+R0088,V0088,"Houston, TX",Healthcare Worker,No,1,3,1,7,20,3,10
+R0089,V0089,"Houston, TX",Police Officer,No,9,9,6,10,6,10,9
+R0090,V0090,"Houston, TX",Healthcare Worker,No,9,3,1,4,8,5,8
+R0091,V0091,"Houston, TX",Healthcare Worker,No,9,2,8,6,17,9,7
+R0092,V0092,"Houston, TX",Healthcare Worker,No,9,9,1,6,14,9,7
+R0093,V0093,"Houston, TX",Police Officer,No,9,7,7,4,4,8,8
+R0094,V0094,"Houston, TX",Police Officer,Yes,1,4,6,9,16,10,4
+R0095,V0095,"Houston, TX",Educator,No,10,4,4,8,4,7,2
+R0096,V0096,"Houston, TX",Educator,Yes,5,1,2,10,18,3,9
+R0097,V0097,"Houston, TX",Educator,No,8,2,1,4,2,8,9
+R0098,V0098,"Houston, TX",Police Officer,Yes,7,10,2,5,8,4,10
+R0099,V0099,"Houston, TX",Healthcare Worker,No,4,8,10,5,1,3,10
+R0100,V0100,"Houston, TX",Educator,Yes,5,10,2,8,3,10,2
+R0101,V0101,"Houston, TX",Police Officer,No,5,3,1,3,17,8,8
+R0102,V0102,"Houston, TX",Police Officer,Yes,1,2,1,3,1,10,10
+R0103,V0103,"Houston, TX",Healthcare Worker,No,2,2,10,5,14,7,8
+R0104,V0104,"Houston, TX",Educator,Yes,3,2,10,1,3,4,7
+R0105,V0105,"Houston, TX",Police Officer,No,7,1,3,8,1,2,9
+R0106,V0106,"Houston, TX",Police Officer,No,4,4,10,5,11,4,10
+R0107,V0107,"Houston, TX",Police Officer,No,2,2,8,10,16,2,10
+R0108,V0108,"Houston, TX",Police Officer,Yes,8,8,10,6,3,3,8
+R0109,V0109,"Houston, TX",Healthcare Worker,No,3,5,4,3,7,6,3
+R0110,V0110,"Houston, TX",Educator,No,7,7,3,10,11,3,9
+R0111,V0111,"Houston, TX",Healthcare Worker,Yes,3,6,4,2,14,10,9
+R0112,V0112,"Houston, TX",Educator,No,6,9,1,6,12,9,9
+R0113,V0113,"Houston, TX",Healthcare Worker,No,6,8,8,6,6,4,8
+R0114,V0114,"Houston, TX",Healthcare Worker,Yes,9,1,5,8,17,8,2
+R0115,V0115,"Houston, TX",Healthcare Worker,No,4,9,10,6,1,2,6
+R0116,V0116,"Houston, TX",Police Officer,No,9,9,5,8,19,5,9
+R0117,V0117,"Houston, TX",Healthcare Worker,No,1,8,3,4,18,2,8
+R0118,V0118,"Houston, TX",Police Officer,No,2,1,3,2,15,6,9
+R0119,V0119,"Houston, TX",Educator,No,7,7,5,3,5,5,9
+R0120,V0120,"Houston, TX",Police Officer,Yes,2,6,9,1,20,5,8
+R0121,V0121,"Houston, TX",Healthcare Worker,Yes,4,10,9,8,16,5,9
+R0122,V0122,"Houston, TX",Healthcare Worker,Yes,7,5,10,9,2,6,9
+R0123,V0123,"Houston, TX",Educator,No,4,6,4,3,1,2,9
+R0124,V0124,"Houston, TX",Police Officer,Yes,6,3,2,8,4,6,7
+R0125,V0125,"Houston, TX",Educator,Yes,5,7,6,6,4,8,8
+R0126,V0126,"Houston, TX",Police Officer,Yes,7,3,1,5,19,9,9
+R0127,V0127,"Houston, TX",Healthcare Worker,No,1,5,4,5,4,7,3
+R0128,V0128,"Houston, TX",Educator,Yes,10,10,9,3,3,6,9
+R0129,V0129,"Houston, TX",Educator,Yes,4,10,10,6,15,4,10
+R0130,V0130,"Houston, TX",Healthcare Worker,Yes,6,8,1,8,13,3,8
+R0131,V0131,"Houston, TX",Educator,No,8,3,4,7,15,8,7
+R0132,V0132,"Houston, TX",Healthcare Worker,Yes,9,4,3,2,4,8,10
+R0133,V0133,"Houston, TX",Healthcare Worker,No,1,7,2,4,12,5,10
+R0134,V0134,"Houston, TX",Healthcare Worker,Yes,4,2,7,8,15,8,8
+R0135,V0135,"Houston, TX",Police Officer,Yes,1,10,4,9,6,3,7
+R0136,V0136,"Houston, TX",Police Officer,Yes,10,9,7,7,9,9,10
+R0137,V0137,"Houston, TX",Police Officer,No,4,7,5,5,10,5,8
+R0138,V0138,"Houston, TX",Educator,No,4,1,3,7,4,2,8
+R0139,V0139,"Houston, TX",Educator,Yes,5,3,2,4,12,8,8
+R0140,V0140,"Houston, TX",Police Officer,No,5,8,5,8,17,9,9
+R0141,V0141,"Houston, TX",Police Officer,No,7,5,1,6,6,10,6
+R0142,V0142,"Houston, TX",Police Officer,Yes,10,1,10,4,19,1,10
+R0143,V0143,"Houston, TX",Healthcare Worker,Yes,3,9,1,4,16,5,8
+R0144,V0144,"Houston, TX",Healthcare Worker,No,4,6,5,2,12,9,10
+R0145,V0145,"Houston, TX",Police Officer,Yes,3,8,2,2,2,6,8
+R0146,V0146,"Houston, TX",Educator,Yes,1,2,9,5,13,1,10
+R0147,V0147,"Houston, TX",Healthcare Worker,Yes,3,4,7,3,15,1,8
+R0148,V0148,"Houston, TX",Educator,No,8,4,7,3,9,6,9
+R0149,V0149,"Houston, TX",Healthcare Worker,No,5,10,6,7,15,1,10
+R0150,V0150,"Houston, TX",Educator,Yes,3,8,7,8,8,10,10
+R0151,V0151,"Houston, TX",Educator,No,4,9,8,6,17,10,8
+R0152,V0152,"Houston, TX",Police Officer,Yes,3,6,7,7,7,4,1
+R0153,V0153,"Houston, TX",Healthcare Worker,Yes,4,1,1,9,13,9,10
+R0154,V0154,"Houston, TX",Educator,No,1,6,3,2,20,10,7
+R0155,V0155,"Houston, TX",Police Officer,No,4,8,9,5,4,5,9
+R0156,V0156,"Houston, TX",Police Officer,No,1,4,1,1,9,9,10
+R0157,V0157,"Houston, TX",Educator,No,7,7,3,4,4,1,8
+R0158,V0158,"Houston, TX",Educator,Yes,5,1,6,6,18,6,2
+R0159,V0159,"Houston, TX",Police Officer,Yes,4,3,9,3,13,7,7
+R0160,V0160,"Houston, TX",Police Officer,Yes,8,8,9,7,10,9,8
+R0161,V0161,"Houston, TX",Educator,Yes,2,9,6,7,20,7,9
+R0162,V0162,"Houston, TX",Healthcare Worker,No,9,5,1,8,5,3,9
+R0163,V0163,"Houston, TX",Police Officer,Yes,3,7,2,7,5,9,9
+R0164,V0164,"Houston, TX",Healthcare Worker,Yes,9,6,8,3,14,6,8
+R0165,V0165,"Houston, TX",Police Officer,No,6,8,3,7,11,3,10
+R0166,V0166,"Houston, TX",Educator,No,9,4,7,8,18,9,7
+R0167,V0167,"Houston, TX",Police Officer,Yes,2,6,10,6,1,5,7
+R0168,V0168,"Houston, TX",Police Officer,Yes,9,6,3,8,15,6,7
+R0169,V0169,"Houston, TX",Police Officer,Yes,7,3,3,4,4,2,7
+R0170,V0170,"Houston, TX",Healthcare Worker,No,6,6,8,5,5,9,10
+R0171,V0171,"Houston, TX",Educator,Yes,5,6,3,9,17,3,9
+R0172,V0172,"Houston, TX",Police Officer,No,7,7,10,9,6,7,4
+R0173,V0173,"Houston, TX",Healthcare Worker,No,6,3,8,9,8,5,7
+R0174,V0174,"Houston, TX",Healthcare Worker,No,4,2,1,10,20,5,9
+R0175,V0175,"Houston, TX",Healthcare Worker,Yes,4,1,4,7,20,1,9
+R0176,V0176,"Houston, TX",Healthcare Worker,Yes,2,8,8,2,12,2,10
+R0177,V0177,"Houston, TX",Police Officer,No,4,3,10,1,16,1,7
+R0178,V0178,"Houston, TX",Police Officer,No,1,1,1,7,6,8,7
+R0179,V0179,"Houston, TX",Police Officer,No,6,8,4,1,5,8,9
+R0180,V0180,"Houston, TX",Police Officer,No,8,10,8,10,1,8,8
+R0181,V0181,"Houston, TX",Educator,No,7,1,9,2,19,4,9
+R0182,V0182,"Houston, TX",Police Officer,No,8,4,5,7,3,3,9
+R0183,V0183,"Houston, TX",Healthcare Worker,Yes,6,9,10,7,2,3,10
+R0184,V0184,"Houston, TX",Police Officer,Yes,7,8,1,7,11,5,7
+R0185,V0185,"Houston, TX",Healthcare Worker,Yes,8,7,4,8,3,9,9
+R0186,V0186,"Houston, TX",Healthcare Worker,Yes,8,1,7,7,3,7,9
+R0187,V0187,"Houston, TX",Educator,No,2,5,6,3,20,4,9
+R0188,V0188,"Houston, TX",Educator,No,10,2,7,3,17,5,8
+R0189,V0189,"Houston, TX",Educator,No,5,9,2,10,16,4,9
+R0190,V0190,"Houston, TX",Healthcare Worker,Yes,4,9,4,1,16,3,8
+R0191,V0191,"Houston, TX",Police Officer,Yes,10,6,1,3,1,4,8
+R0192,V0192,"Houston, TX",Police Officer,No,8,9,2,4,19,5,8
+R0193,V0193,"Houston, TX",Healthcare Worker,No,9,5,7,10,17,3,10
+R0194,V0194,"Houston, TX",Educator,Yes,1,9,5,3,8,9,7
+R0195,V0195,"Houston, TX",Educator,Yes,1,1,1,10,15,1,7
+R0196,V0196,"Houston, TX",Healthcare Worker,No,2,7,4,5,6,9,7
+R0197,V0197,"Houston, TX",Educator,Yes,1,5,9,9,2,1,10
+R0198,V0198,"Houston, TX",Educator,No,8,3,10,9,11,4,8
+R0199,V0199,"Houston, TX",Educator,Yes,8,8,3,10,8,1,9
+R0200,V0200,"Houston, TX",Healthcare Worker,No,2,3,5,8,20,8,9
+R0201,V0201,"Houston, TX",Police Officer,Yes,1,8,5,10,14,7,9
+R0202,V0202,"Houston, TX",Healthcare Worker,No,1,1,10,5,18,2,7
+R0203,V0203,"Houston, TX",Healthcare Worker,No,4,4,7,3,16,6,7
+R0204,V0204,"Houston, TX",Educator,No,5,4,10,4,20,4,1
+R0205,V0205,"Houston, TX",Educator,Yes,8,3,5,10,4,2,8
+R0206,V0206,"Houston, TX",Educator,No,7,8,5,1,19,1,10
+R0207,V0207,"Houston, TX",Healthcare Worker,No,1,4,9,1,10,3,6
+R0208,V0208,"Houston, TX",Healthcare Worker,No,3,2,8,10,6,9,10
+R0209,V0209,"Houston, TX",Healthcare Worker,Yes,5,5,4,7,17,7,8
+R0210,V0210,"Houston, TX",Police Officer,Yes,6,7,7,4,5,2,10
+R0211,V0211,"Houston, TX",Educator,No,5,1,10,4,20,3,8
+R0212,V0212,"Houston, TX",Police Officer,No,8,9,5,2,8,7,7
+R0213,V0213,"Houston, TX",Healthcare Worker,No,10,8,7,5,15,10,8
+R0214,V0214,"Houston, TX",Healthcare Worker,No,4,5,8,5,5,4,7
+R0215,V0215,"Houston, TX",Educator,No,6,6,2,6,5,1,7
+R0216,V0216,"Houston, TX",Healthcare Worker,No,3,10,6,5,13,6,9
+R0217,V0217,"Houston, TX",Educator,Yes,4,9,6,9,14,1,7
+R0218,V0218,"Houston, TX",Educator,No,1,5,10,3,3,3,8
+R0219,V0219,"Houston, TX",Healthcare Worker,No,2,3,1,10,9,2,9
+R0220,V0220,"Houston, TX",Healthcare Worker,Yes,10,5,5,8,8,4,9
+R0221,V0221,"Houston, TX",Healthcare Worker,No,3,6,2,8,13,3,4
+R0222,V0222,"Houston, TX",Healthcare Worker,No,7,3,3,6,10,1,10
+R0223,V0223,"Houston, TX",Healthcare Worker,Yes,2,10,10,3,3,9,10
+R0224,V0224,"Houston, TX",Healthcare Worker,No,7,8,1,6,3,5,7
+R0225,V0225,"Houston, TX",Police Officer,Yes,6,7,1,1,12,4,2
+R0226,V0226,"Houston, TX",Educator,Yes,1,8,2,5,1,10,10
+R0227,V0227,"Houston, TX",Police Officer,Yes,2,7,2,3,15,6,7
+R0228,V0228,"Houston, TX",Police Officer,Yes,2,1,1,9,6,5,9
+R0229,V0229,"Houston, TX",Educator,No,4,10,6,6,18,5,5
+R0230,V0230,"Houston, TX",Healthcare Worker,Yes,7,7,5,1,6,7,8
+R0231,V0231,"Houston, TX",Educator,Yes,2,9,10,5,9,10,10
+R0232,V0232,"Houston, TX",Educator,No,9,1,4,6,8,1,10
+R0233,V0233,"Houston, TX",Healthcare Worker,No,2,7,1,8,15,7,8
+R0234,V0234,"Houston, TX",Healthcare Worker,No,3,3,2,6,2,9,9
+R0235,V0235,"Houston, TX",Healthcare Worker,No,4,2,10,5,3,5,4
+R0236,V0236,"Houston, TX",Educator,No,6,10,3,1,19,9,7
+R0237,V0237,"Houston, TX",Healthcare Worker,No,2,6,4,9,2,4,8
+R0238,V0238,"Houston, TX",Healthcare Worker,No,6,5,6,9,17,9,7
+R0239,V0239,"Houston, TX",Healthcare Worker,Yes,5,4,3,3,20,8,9
+R0240,V0240,"Houston, TX",Educator,Yes,1,3,1,7,4,5,7
+R0241,V0241,"Houston, TX",Healthcare Worker,No,2,5,2,7,20,6,9
+R0242,V0242,"Houston, TX",Educator,No,1,2,6,6,4,5,9
+R0243,V0243,"Houston, TX",Educator,No,7,1,2,10,1,7,6
+R0244,V0244,"Houston, TX",Police Officer,No,2,5,8,4,17,6,7
+R0245,V0245,"Houston, TX",Educator,No,2,9,10,6,11,6,4
+R0246,V0246,"Houston, TX",Healthcare Worker,Yes,6,10,10,10,17,5,8
+R0247,V0247,"Houston, TX",Police Officer,Yes,10,1,3,4,1,7,10
+R0248,V0248,"Houston, TX",Police Officer,Yes,3,3,2,10,7,2,9
+R0249,V0249,"Houston, TX",Educator,No,1,7,9,1,8,10,9
+R0250,V0250,"Houston, TX",Healthcare Worker,No,6,2,2,4,16,7,8
+R0251,V0251,"Houston, TX",Healthcare Worker,No,5,10,2,1,17,3,9
+R0252,V0252,"Houston, TX",Healthcare Worker,Yes,4,2,10,9,19,1,8
+R0253,V0253,"Houston, TX",Healthcare Worker,Yes,9,6,9,2,9,6,5
+R0254,V0254,"Houston, TX",Healthcare Worker,Yes,8,2,7,3,3,4,8
+R0255,V0255,"Houston, TX",Police Officer,No,5,3,5,7,13,3,10
+R0256,V0256,"Houston, TX",Educator,No,8,4,1,1,11,7,7
+R0257,V0257,"Houston, TX",Educator,No,6,9,9,5,4,3,8
+R0258,V0258,"Houston, TX",Police Officer,No,7,5,3,1,9,5,7
+R0259,V0259,"Houston, TX",Educator,No,1,8,3,6,9,7,8
+R0260,V0260,"Houston, TX",Police Officer,No,1,7,4,6,18,2,9
+R0261,V0261,"Houston, TX",Healthcare Worker,Yes,3,7,3,7,9,3,9
+R0262,V0262,"Houston, TX",Educator,Yes,10,6,3,1,11,3,10
+R0263,V0263,"Houston, TX",Healthcare Worker,Yes,4,3,3,9,2,3,8
+R0264,V0264,"Houston, TX",Educator,Yes,3,7,5,4,11,5,8
+R0265,V0265,"Houston, TX",Healthcare Worker,No,10,3,4,8,19,1,8
+R0266,V0266,"Houston, TX",Healthcare Worker,Yes,5,7,7,1,18,7,7
+R0267,V0267,"Houston, TX",Healthcare Worker,Yes,3,9,10,6,8,3,10
+R0268,V0268,"Houston, TX",Police Officer,No,8,1,7,1,7,10,7
+R0269,V0269,"Houston, TX",Healthcare Worker,No,8,6,3,3,18,6,7
+R0270,V0270,"Houston, TX",Healthcare Worker,Yes,6,5,7,7,13,9,8
+R0271,V0271,"Houston, TX",Healthcare Worker,Yes,2,8,9,9,20,10,5
+R0272,V0272,"Houston, TX",Healthcare Worker,No,7,10,4,7,12,6,9
+R0273,V0273,"Houston, TX",Healthcare Worker,Yes,10,8,9,8,6,3,5
+R0274,V0274,"Houston, TX",Police Officer,Yes,1,4,5,6,9,7,10
+R0275,V0275,"Houston, TX",Educator,Yes,5,2,7,5,10,8,10
+R0276,V0276,"Houston, TX",Healthcare Worker,Yes,8,9,6,5,3,9,10
+R0277,V0277,"Houston, TX",Police Officer,Yes,7,1,2,4,20,6,9
+R0278,V0278,"Houston, TX",Educator,No,10,8,9,4,18,5,7
+R0279,V0279,"Houston, TX",Educator,No,1,8,9,8,19,3,3
+R0280,V0280,"Houston, TX",Police Officer,No,8,2,6,7,18,4,7
+R0281,V0281,"Houston, TX",Educator,No,7,6,2,10,19,8,3
+R0282,V0282,"Houston, TX",Police Officer,No,7,5,8,5,11,5,10
+R0283,V0283,"Houston, TX",Healthcare Worker,Yes,2,3,9,8,15,10,10
+R0284,V0284,"Houston, TX",Healthcare Worker,Yes,8,6,10,4,19,2,10
+R0285,V0285,"Houston, TX",Healthcare Worker,No,5,5,6,5,11,4,10
+R0286,V0286,"Houston, TX",Educator,No,5,3,10,4,15,8,9
+R0287,V0287,"Houston, TX",Police Officer,No,7,8,10,10,6,2,2
+R0288,V0288,"Houston, TX",Educator,Yes,1,8,7,6,1,6,8
+R0289,V0289,"Houston, TX",Healthcare Worker,Yes,7,9,2,10,13,1,8
+R0290,V0290,"Houston, TX",Healthcare Worker,Yes,9,5,1,6,7,2,10
+R0291,V0291,"Houston, TX",Police Officer,No,2,5,10,7,1,7,7
+R0292,V0292,"Houston, TX",Educator,No,2,2,5,10,9,3,10
+R0293,V0293,"Houston, TX",Educator,Yes,7,6,1,8,13,6,5
+R0294,V0294,"Houston, TX",Educator,No,7,4,5,8,2,8,9
+R0295,V0295,"Houston, TX",Police Officer,No,1,6,10,4,1,10,8
+R0296,V0296,"Houston, TX",Police Officer,Yes,2,9,8,5,8,9,8
+R0297,V0297,"Houston, TX",Educator,No,8,1,1,9,15,8,7
+R0298,V0298,"Houston, TX",Healthcare Worker,No,10,8,8,4,2,4,8
+R0299,V0299,"Houston, TX",Healthcare Worker,Yes,8,8,6,7,1,5,10
+R0300,V0300,"Houston, TX",Police Officer,No,5,4,7,9,19,7,7
+R0301,V0301,"Houston, TX",Police Officer,No,4,9,4,3,17,8,7
+R0302,V0302,"Houston, TX",Police Officer,No,9,3,2,3,9,5,9
+R0303,V0303,"Houston, TX",Healthcare Worker,Yes,6,5,5,9,11,8,4
+R0304,V0304,"Houston, TX",Police Officer,Yes,6,2,1,1,18,5,9
+R0305,V0305,"Houston, TX",Educator,No,7,9,2,6,6,8,8
+R0306,V0306,"Houston, TX",Police Officer,No,8,10,3,6,18,1,8
+R0307,V0307,"Houston, TX",Educator,Yes,3,1,10,6,12,1,10
+R0308,V0308,"Houston, TX",Police Officer,No,2,10,1,10,10,3,10
+R0309,V0309,"Houston, TX",Healthcare Worker,Yes,1,5,7,10,16,3,8
+R0310,V0310,"Houston, TX",Educator,No,7,6,2,7,2,4,8
+R0311,V0311,"Houston, TX",Police Officer,No,2,2,6,5,6,3,8
+R0312,V0312,"Houston, TX",Educator,No,2,4,8,1,8,6,8
+R0313,V0313,"Houston, TX",Educator,No,3,4,5,4,8,2,10
+R0314,V0314,"Houston, TX",Educator,Yes,2,1,6,10,4,2,10
+R0315,V0315,"Houston, TX",Educator,Yes,1,4,3,2,18,8,10
+R0316,V0316,"Houston, TX",Educator,Yes,4,7,9,7,4,8,7
+R0317,V0317,"Houston, TX",Healthcare Worker,No,10,1,8,7,9,8,10
+R0318,V0318,"Houston, TX",Healthcare Worker,Yes,1,2,10,3,11,7,10
+R0319,V0319,"Houston, TX",Healthcare Worker,No,10,9,9,1,15,4,9
+R0320,V0320,"Houston, TX",Educator,No,2,9,3,2,7,10,8
+R0321,V0321,"Houston, TX",Police Officer,Yes,10,4,7,10,15,8,10
+R0322,V0322,"Houston, TX",Educator,No,7,6,10,5,14,1,9
+R0323,V0323,"Houston, TX",Police Officer,Yes,3,4,2,2,4,9,5
+R0324,V0324,"Houston, TX",Healthcare Worker,Yes,1,7,8,6,7,4,10
+R0325,V0325,"Houston, TX",Police Officer,Yes,7,6,8,1,15,8,10
+R0326,V0326,"Houston, TX",Healthcare Worker,Yes,9,10,10,5,7,9,9
+R0327,V0327,"Houston, TX",Healthcare Worker,Yes,1,3,7,5,19,1,10
+R0328,V0328,"Houston, TX",Healthcare Worker,Yes,9,5,4,4,19,6,7
+R0329,V0329,"Houston, TX",Police Officer,No,10,6,6,5,18,4,9
+R0330,V0330,"Houston, TX",Police Officer,No,7,7,6,6,15,3,8
+R0331,V0331,"Houston, TX",Healthcare Worker,Yes,10,9,4,10,5,6,8
+R0332,V0332,"Houston, TX",Healthcare Worker,Yes,3,6,4,7,9,8,9
+R0333,V0333,"Houston, TX",Educator,Yes,9,10,9,5,15,7,9
+R0334,V0334,"Houston, TX",Educator,Yes,3,1,3,10,17,9,7
+R0335,V0335,"Houston, TX",Police Officer,No,6,8,5,7,11,7,9
+R0336,V0336,"Houston, TX",Police Officer,Yes,3,2,3,3,18,7,6
+R0337,V0337,"Houston, TX",Police Officer,No,6,9,6,1,9,5,10
+R0338,V0338,"Houston, TX",Police Officer,No,8,10,5,4,17,9,8
+R0339,V0339,"Houston, TX",Healthcare Worker,No,7,7,4,6,10,5,10
+R0340,V0340,"Houston, TX",Police Officer,Yes,7,6,9,5,14,2,8
+R0341,V0341,"Houston, TX",Healthcare Worker,Yes,8,6,9,9,19,10,7
+R0342,V0342,"Houston, TX",Educator,No,2,5,5,3,7,8,4
+R0343,V0343,"Houston, TX",Police Officer,Yes,5,6,1,8,20,5,10
+R0344,V0344,"Houston, TX",Police Officer,No,5,6,7,2,12,9,10
+R0345,V0345,"Houston, TX",Healthcare Worker,Yes,9,1,2,5,7,7,9
+R0346,V0346,"Houston, TX",Educator,No,1,5,4,9,14,7,8
+R0347,V0347,"Houston, TX",Healthcare Worker,No,8,8,4,5,8,9,9
+R0348,V0348,"Houston, TX",Educator,Yes,7,5,10,6,2,3,9
+R0349,V0349,"Houston, TX",Healthcare Worker,No,3,6,9,9,8,5,7
+R0350,V0350,"Houston, TX",Educator,No,9,2,2,9,15,2,9
+R0351,V0351,"Houston, TX",Healthcare Worker,Yes,8,3,10,10,7,8,8
+R0352,V0352,"Houston, TX",Police Officer,Yes,1,1,5,6,16,9,7
+R0353,V0353,"Houston, TX",Educator,Yes,1,5,7,7,18,10,10
+R0354,V0354,"Houston, TX",Police Officer,Yes,6,1,7,3,9,2,9
+R0355,V0355,"Houston, TX",Educator,No,5,2,10,1,9,8,7
+R0356,V0356,"Houston, TX",Police Officer,No,2,8,2,9,15,2,8
+R0357,V0357,"Houston, TX",Educator,Yes,6,1,6,2,11,1,9
+R0358,V0358,"Houston, TX",Police Officer,Yes,9,8,9,10,7,2,7
+R0359,V0359,"Houston, TX",Educator,No,7,3,10,10,2,1,9
+R0360,V0360,"Houston, TX",Educator,Yes,3,10,5,10,12,1,8
+R0361,V0361,"Houston, TX",Police Officer,Yes,2,6,3,2,18,8,9
+R0362,V0362,"Houston, TX",Educator,Yes,1,5,6,1,17,3,9
+R0363,V0363,"Houston, TX",Healthcare Worker,Yes,2,1,10,10,11,3,9
+R0364,V0364,"Houston, TX",Police Officer,No,8,6,8,5,3,7,4
+R0365,V0365,"Houston, TX",Healthcare Worker,No,5,7,1,2,13,8,8
+R0366,V0366,"Houston, TX",Educator,Yes,4,8,2,4,20,1,6
+R0367,V0367,"Houston, TX",Police Officer,No,1,1,6,9,13,2,5
+R0368,V0368,"Houston, TX",Healthcare Worker,Yes,8,7,2,10,17,3,7
+R0369,V0369,"Houston, TX",Healthcare Worker,No,2,3,1,6,13,5,7
+R0370,V0370,"Houston, TX",Educator,No,8,1,6,3,5,5,10
+R0371,V0371,"Houston, TX",Educator,Yes,9,9,1,2,19,2,9
+R0372,V0372,"Houston, TX",Educator,Yes,1,4,8,7,19,9,10
+R0373,V0373,"Houston, TX",Educator,No,6,10,10,7,20,7,9
+R0374,V0374,"Houston, TX",Healthcare Worker,No,5,9,1,6,16,7,8
+R0375,V0375,"Houston, TX",Educator,No,4,1,1,6,5,9,8
+R0376,V0376,"Houston, TX",Educator,Yes,2,6,6,2,20,2,7
+R0377,V0377,"Houston, TX",Healthcare Worker,No,9,7,3,10,1,8,8
+R0378,V0378,"Houston, TX",Healthcare Worker,Yes,5,2,8,9,14,7,8
+R0379,V0379,"Houston, TX",Healthcare Worker,Yes,5,8,4,4,13,1,5
+R0380,V0380,"Houston, TX",Healthcare Worker,Yes,8,1,4,1,16,4,5
+R0381,V0381,"Houston, TX",Healthcare Worker,Yes,7,10,2,2,2,8,6
+R0382,V0382,"Houston, TX",Healthcare Worker,Yes,7,2,6,1,13,2,10
+R0383,V0383,"Houston, TX",Police Officer,No,8,10,3,10,19,4,9
+R0384,V0384,"Houston, TX",Educator,No,1,7,8,4,12,6,3
+R0385,V0385,"Houston, TX",Police Officer,No,9,4,1,1,6,9,8
+R0386,V0386,"Houston, TX",Healthcare Worker,No,10,1,5,9,1,9,10
+R0387,V0387,"Houston, TX",Educator,Yes,3,6,10,10,11,6,4
+R0388,V0388,"Houston, TX",Educator,Yes,1,9,2,2,3,9,7
+R0389,V0389,"Houston, TX",Healthcare Worker,No,9,9,8,10,3,10,7
+R0390,V0390,"Houston, TX",Educator,No,2,10,2,6,7,4,7
+R0391,V0391,"Houston, TX",Police Officer,No,2,2,3,5,16,6,1
+R0392,V0392,"Houston, TX",Healthcare Worker,No,3,1,1,8,15,5,7
+R0393,V0393,"Houston, TX",Police Officer,Yes,9,8,7,5,6,6,9
+R0394,V0394,"Houston, TX",Healthcare Worker,No,10,7,6,5,5,7,8
+R0395,V0395,"Houston, TX",Educator,Yes,5,4,10,3,12,9,7
+R0396,V0396,"Houston, TX",Healthcare Worker,No,4,7,3,8,3,1,8
+R0397,V0397,"Houston, TX",Healthcare Worker,Yes,6,5,7,4,1,6,7
+R0398,V0398,"Houston, TX",Educator,No,2,2,2,10,2,7,9
+R0399,V0399,"Houston, TX",Healthcare Worker,Yes,10,8,6,9,2,6,7
+R0400,V0400,"Houston, TX",Police Officer,No,9,4,8,3,11,9,8
+R0401,V0401,"Houston, TX",Police Officer,No,6,1,6,5,14,1,6
+R0402,V0402,"Houston, TX",Police Officer,Yes,9,8,8,9,5,9,7
+R0403,V0403,"Houston, TX",Healthcare Worker,No,2,7,7,7,2,6,6
+R0404,V0404,"Houston, TX",Educator,Yes,10,4,10,5,4,7,2
+R0405,V0405,"Houston, TX",Healthcare Worker,Yes,7,3,7,2,20,8,8
+R0406,V0406,"Houston, TX",Healthcare Worker,No,10,4,5,8,5,8,1
+R0407,V0407,"Houston, TX",Police Officer,No,8,3,2,2,7,1,7
+R0408,V0408,"Houston, TX",Educator,Yes,6,10,7,8,4,3,8
+R0409,V0409,"Houston, TX",Educator,No,7,4,2,5,17,10,9
+R0410,V0410,"Houston, TX",Educator,No,7,10,6,5,19,7,9
+R0411,V0411,"Houston, TX",Healthcare Worker,Yes,7,1,3,3,11,1,1
+R0412,V0412,"Houston, TX",Healthcare Worker,No,7,4,9,7,15,5,5
+R0413,V0413,"Houston, TX",Healthcare Worker,No,6,9,1,9,5,1,8
+R0414,V0414,"Houston, TX",Police Officer,Yes,6,9,5,6,1,9,8
+R0415,V0415,"Houston, TX",Healthcare Worker,No,4,2,2,6,12,1,1
+R0416,V0416,"Houston, TX",Police Officer,Yes,3,10,7,3,4,6,7
+R0417,V0417,"Houston, TX",Healthcare Worker,Yes,1,5,6,2,4,2,10
+R0418,V0418,"Houston, TX",Healthcare Worker,No,7,9,6,10,12,6,10
+R0419,V0419,"Houston, TX",Healthcare Worker,No,10,8,8,1,1,6,8
+R0420,V0420,"Houston, TX",Healthcare Worker,No,4,5,9,4,15,9,9
+R0421,V0421,"Houston, TX",Healthcare Worker,No,7,5,6,2,2,1,8
+R0422,V0422,"Houston, TX",Educator,Yes,7,6,10,1,3,5,4
+R0423,V0423,"Houston, TX",Police Officer,No,2,6,5,3,19,6,7
+R0424,V0424,"Houston, TX",Educator,No,4,10,8,5,11,1,9
+R0425,V0425,"Houston, TX",Educator,Yes,1,5,2,4,12,3,7
+R0426,V0426,"Houston, TX",Healthcare Worker,Yes,3,2,10,7,10,4,7
+R0427,V0427,"Houston, TX",Healthcare Worker,Yes,8,1,8,1,13,8,9
+R0428,V0428,"Houston, TX",Healthcare Worker,No,10,3,9,1,17,5,9
+R0429,V0429,"Houston, TX",Police Officer,Yes,4,3,8,5,5,10,7
+R0430,V0430,"Houston, TX",Healthcare Worker,No,3,1,7,4,12,4,8
+R0431,V0431,"Houston, TX",Police Officer,No,7,2,1,3,3,4,7
+R0432,V0432,"Houston, TX",Educator,No,2,1,3,2,17,2,10
+R0433,V0433,"Houston, TX",Educator,Yes,1,5,6,2,18,7,4
+R0434,V0434,"Houston, TX",Healthcare Worker,Yes,2,5,3,2,7,1,9
+R0435,V0435,"Houston, TX",Healthcare Worker,No,3,3,2,2,16,2,10
+R0436,V0436,"Houston, TX",Healthcare Worker,No,3,6,8,10,2,8,10
+R0437,V0437,"Houston, TX",Educator,No,10,2,10,2,10,8,1
+R0438,V0438,"Houston, TX",Educator,Yes,8,5,3,5,18,6,3
+R0439,V0439,"Houston, TX",Healthcare Worker,No,4,10,4,10,19,4,7
+R0440,V0440,"Houston, TX",Police Officer,No,9,8,3,6,5,6,10
+R0441,V0441,"Houston, TX",Police Officer,Yes,2,1,2,9,4,6,7
+R0442,V0442,"Houston, TX",Police Officer,No,6,8,10,7,20,6,8
+R0443,V0443,"Houston, TX",Police Officer,No,3,7,8,9,4,6,8
+R0444,V0444,"Houston, TX",Educator,No,8,8,10,10,1,1,7
+R0445,V0445,"Houston, TX",Healthcare Worker,Yes,1,9,6,3,16,2,8
+R0446,V0446,"Houston, TX",Police Officer,Yes,9,1,9,10,18,5,7
+R0447,V0447,"Houston, TX",Educator,Yes,8,1,1,7,1,6,10
+R0448,V0448,"Houston, TX",Healthcare Worker,No,2,6,5,3,7,3,8
+R0449,V0449,"Houston, TX",Educator,No,4,7,9,5,16,2,8
+R0450,V0450,"Houston, TX",Police Officer,No,9,9,1,5,18,5,9
+R0451,V0451,"Houston, TX",Educator,Yes,1,9,8,2,13,6,8
+R0452,V0452,"Houston, TX",Educator,No,2,7,6,5,14,7,7
+R0453,V0453,"Houston, TX",Police Officer,Yes,6,9,1,4,2,6,10
+R0454,V0454,"Houston, TX",Police Officer,Yes,7,8,7,9,7,9,10
+R0455,V0455,"Houston, TX",Healthcare Worker,Yes,4,8,2,3,15,6,7
+R0456,V0456,"Houston, TX",Educator,Yes,7,9,7,9,16,7,9
+R0457,V0457,"Houston, TX",Healthcare Worker,No,2,8,3,5,13,6,7
+R0458,V0458,"Houston, TX",Police Officer,No,9,2,7,1,6,7,9
+R0459,V0459,"Houston, TX",Healthcare Worker,No,5,8,1,1,4,6,7
+R0460,V0460,"Houston, TX",Police Officer,Yes,9,9,7,8,9,8,9
+R0461,V0461,"Houston, TX",Police Officer,Yes,7,4,2,10,6,5,4
+R0462,V0462,"Houston, TX",Healthcare Worker,Yes,8,9,1,5,6,4,10
+R0463,V0463,"Houston, TX",Police Officer,No,8,9,10,5,15,9,9
+R0464,V0464,"Houston, TX",Police Officer,No,10,6,1,4,14,7,9
+R0465,V0465,"Houston, TX",Police Officer,No,10,4,5,1,17,9,10
+R0466,V0466,"Houston, TX",Educator,Yes,4,9,9,7,16,10,9
+R0467,V0467,"Houston, TX",Police Officer,No,4,2,2,4,4,5,7
+R0468,V0468,"Houston, TX",Police Officer,No,1,3,10,3,15,3,8
+R0469,V0469,"Houston, TX",Healthcare Worker,No,8,2,2,10,16,9,2
+R0470,V0470,"Houston, TX",Healthcare Worker,Yes,5,5,8,9,17,10,8
+R0471,V0471,"Houston, TX",Police Officer,No,3,1,7,9,9,5,9
+R0472,V0472,"Houston, TX",Police Officer,No,9,4,10,9,2,1,7
+R0473,V0473,"Houston, TX",Educator,Yes,10,6,9,7,16,2,9
+R0474,V0474,"Houston, TX",Healthcare Worker,Yes,4,10,7,2,9,1,9
+R0475,V0475,"Houston, TX",Police Officer,No,8,8,9,6,10,3,9
+R0476,V0476,"Houston, TX",Educator,Yes,8,9,2,5,4,8,9
+R0477,V0477,"Houston, TX",Educator,No,7,7,10,10,20,1,7
+R0478,V0478,"Houston, TX",Educator,No,9,2,6,1,11,7,9
+R0479,V0479,"Houston, TX",Educator,Yes,5,8,9,1,16,9,9
+R0480,V0480,"Houston, TX",Healthcare Worker,No,8,2,2,7,3,4,8
+R0481,V0481,"Houston, TX",Educator,No,1,9,6,2,16,7,10
+R0482,V0482,"Houston, TX",Educator,Yes,3,9,2,7,4,9,9
+R0483,V0483,"Houston, TX",Educator,No,4,6,10,7,4,6,8
+R0484,V0484,"Houston, TX",Healthcare Worker,Yes,8,7,9,6,17,7,1
+R0485,V0485,"Houston, TX",Police Officer,Yes,10,7,1,8,12,4,10
+R0486,V0486,"Houston, TX",Educator,No,2,7,5,1,19,8,10
+R0487,V0487,"Houston, TX",Educator,Yes,10,3,1,1,3,1,8
+R0488,V0488,"Houston, TX",Healthcare Worker,Yes,6,10,1,8,1,9,7
+R0489,V0489,"Houston, TX",Educator,Yes,7,2,2,5,1,9,10
+R0490,V0490,"Houston, TX",Police Officer,No,6,1,6,7,13,2,10
+R0491,V0491,"Houston, TX",Educator,No,10,1,8,2,9,9,10
+R0492,V0492,"Houston, TX",Police Officer,No,5,10,3,8,15,4,10
+R0493,V0493,"Houston, TX",Healthcare Worker,Yes,7,5,8,5,15,2,7
+R0494,V0494,"Houston, TX",Educator,Yes,8,6,3,10,1,3,8
+R0495,V0495,"Houston, TX",Police Officer,No,1,2,8,6,16,1,9
+R0496,V0496,"Houston, TX",Healthcare Worker,Yes,2,10,6,2,3,2,9
+R0497,V0497,"Houston, TX",Police Officer,Yes,9,2,8,4,9,6,7
+R0498,V0498,"Houston, TX",Healthcare Worker,Yes,7,6,8,7,6,10,7
+R0499,V0499,"Houston, TX",Police Officer,Yes,6,5,2,4,3,6,9
+R0500,V0500,"Houston, TX",Educator,Yes,7,5,7,3,14,1,10
+R0501,V0501,"Houston, TX",Police Officer,Yes,6,2,6,6,12,2,2
+R0502,V0502,"Houston, TX",Healthcare Worker,Yes,3,2,8,10,20,4,7
+R0503,V0503,"Houston, TX",Healthcare Worker,No,5,9,10,6,14,1,6
+R0504,V0504,"Houston, TX",Healthcare Worker,Yes,7,4,6,5,6,4,9
+R0505,V0505,"Houston, TX",Police Officer,No,9,2,2,3,7,3,7
+R0506,V0506,"Houston, TX",Educator,No,4,1,9,10,10,2,8
+R0507,V0507,"Houston, TX",Educator,Yes,5,3,7,5,5,6,10
+R0508,V0508,"Houston, TX",Police Officer,Yes,5,2,6,2,11,5,10
+R0509,V0509,"Houston, TX",Healthcare Worker,Yes,7,5,8,8,11,8,9
+R0510,V0510,"Houston, TX",Police Officer,No,10,8,8,5,9,7,8
+R0511,V0511,"Houston, TX",Police Officer,No,4,2,1,7,11,4,8
+R0512,V0512,"Houston, TX",Police Officer,No,9,9,2,9,12,6,9
+R0513,V0513,"Houston, TX",Police Officer,No,2,1,10,7,18,8,7
+R0514,V0514,"Houston, TX",Healthcare Worker,Yes,4,9,5,9,17,1,9
+R0515,V0515,"Houston, TX",Educator,Yes,6,8,6,5,6,9,8
+R0516,V0516,"Houston, TX",Educator,No,7,6,5,8,2,6,8
+R0517,V0517,"Houston, TX",Police Officer,No,5,3,2,8,13,2,8
+R0518,V0518,"Houston, TX",Healthcare Worker,Yes,6,5,10,5,6,1,7
+R0519,V0519,"Houston, TX",Police Officer,Yes,3,5,2,9,10,5,10
+R0520,V0520,"Houston, TX",Healthcare Worker,No,6,1,5,10,7,8,8
+R0521,V0521,"Houston, TX",Police Officer,Yes,3,1,8,4,1,5,10
+R0522,V0522,"Houston, TX",Police Officer,Yes,10,2,7,5,11,6,8
+R0523,V0523,"Houston, TX",Educator,Yes,9,2,7,6,9,10,8
+R0524,V0524,"Houston, TX",Educator,No,5,1,1,3,2,2,7
+R0525,V0525,"Houston, TX",Healthcare Worker,No,10,1,8,6,10,1,9
+R0526,V0526,"Houston, TX",Educator,Yes,9,6,10,9,15,6,7
+R0527,V0527,"Houston, TX",Police Officer,No,5,4,7,7,3,6,8
+R0528,V0528,"Houston, TX",Educator,Yes,4,9,4,3,6,4,8
+R0529,V0529,"Houston, TX",Police Officer,Yes,1,9,5,5,13,9,9
+R0530,V0530,"Houston, TX",Healthcare Worker,Yes,4,7,9,9,19,6,10
+R0531,V0531,"Houston, TX",Police Officer,No,1,8,6,7,8,9,9
+R0532,V0532,"Houston, TX",Educator,No,7,10,9,9,11,2,8
+R0533,V0533,"Houston, TX",Healthcare Worker,Yes,10,7,1,8,2,7,7
+R0534,V0534,"Houston, TX",Healthcare Worker,No,10,10,10,4,11,6,8
+R0535,V0535,"Houston, TX",Police Officer,No,1,3,6,3,9,7,10
+R0536,V0536,"Houston, TX",Educator,Yes,2,5,10,4,10,2,9
+R0537,V0537,"Houston, TX",Healthcare Worker,No,3,1,3,2,3,7,9
+R0538,V0538,"Houston, TX",Healthcare Worker,Yes,9,7,6,8,7,3,4
+R0539,V0539,"Houston, TX",Police Officer,No,3,2,8,10,17,1,10
+R0540,V0540,"Houston, TX",Police Officer,No,7,4,2,6,11,6,4
+R0541,V0541,"Houston, TX",Police Officer,No,8,10,3,10,8,5,8
+R0542,V0542,"Houston, TX",Educator,Yes,9,5,8,2,3,3,8
+R0543,V0543,"Houston, TX",Healthcare Worker,Yes,8,7,9,5,9,7,8
+R0544,V0544,"Houston, TX",Educator,No,3,3,7,4,8,8,7
+R0545,V0545,"Houston, TX",Healthcare Worker,Yes,7,9,4,9,2,10,10
+R0546,V0546,"Houston, TX",Police Officer,No,8,10,1,2,13,9,8
+R0547,V0547,"Houston, TX",Police Officer,No,6,6,9,7,5,8,7
+R0548,V0548,"Houston, TX",Police Officer,No,4,8,3,6,11,6,10
+R0549,V0549,"Houston, TX",Educator,Yes,6,6,7,9,7,3,1
+R0550,V0550,"Houston, TX",Educator,No,2,10,5,2,15,7,7
+R0551,V0551,"Houston, TX",Healthcare Worker,No,2,5,8,10,17,10,8
+R0552,V0552,"Houston, TX",Educator,Yes,1,6,8,7,13,4,9
+R0553,V0553,"Houston, TX",Healthcare Worker,No,9,10,1,4,4,6,8
+R0554,V0554,"Houston, TX",Police Officer,No,7,4,9,7,9,6,7
+R0555,V0555,"Houston, TX",Educator,Yes,2,4,7,1,16,9,10
+R0556,V0556,"Houston, TX",Healthcare Worker,No,6,2,7,9,20,3,9
+R0557,V0557,"Houston, TX",Educator,No,9,5,2,1,2,6,8
+R0558,V0558,"Houston, TX",Healthcare Worker,Yes,7,10,2,8,6,9,7
+R0559,V0559,"Houston, TX",Educator,No,6,7,3,7,6,2,10
+R0560,V0560,"Houston, TX",Educator,Yes,1,3,5,8,18,10,7
+R0561,V0561,"Houston, TX",Educator,Yes,3,8,3,10,20,10,9
+R0562,V0562,"Houston, TX",Police Officer,Yes,4,3,2,3,19,5,7
+R0563,V0563,"Houston, TX",Healthcare Worker,No,8,2,10,4,10,7,9
+R0564,V0564,"Houston, TX",Police Officer,No,4,10,5,5,17,10,2
+R0565,V0565,"Houston, TX",Healthcare Worker,Yes,8,10,6,3,15,7,10
+R0566,V0566,"Houston, TX",Police Officer,Yes,9,3,10,9,3,4,8
+R0567,V0567,"Houston, TX",Healthcare Worker,No,1,6,6,2,3,5,2
+R0568,V0568,"Houston, TX",Police Officer,No,1,2,7,5,17,4,9
+R0569,V0569,"Houston, TX",Educator,Yes,1,10,7,8,1,3,8
+R0570,V0570,"Houston, TX",Police Officer,No,8,10,10,1,17,9,7
+R0571,V0571,"Houston, TX",Educator,No,9,2,1,3,8,8,10
+R0572,V0572,"Houston, TX",Educator,Yes,8,10,4,2,18,2,10
+R0573,V0573,"Houston, TX",Healthcare Worker,No,2,3,2,4,5,8,7
+R0574,V0574,"Houston, TX",Healthcare Worker,No,10,6,4,2,9,8,10
+R0575,V0575,"Houston, TX",Educator,No,4,9,7,8,13,3,8
+R0576,V0576,"Houston, TX",Police Officer,No,2,3,1,9,6,1,8
+R0577,V0577,"Houston, TX",Police Officer,No,5,3,8,1,6,6,10
+R0578,V0578,"Houston, TX",Police Officer,No,9,8,7,8,1,2,9
+R0579,V0579,"Houston, TX",Educator,Yes,2,6,7,4,8,8,9
+R0580,V0580,"Houston, TX",Police Officer,No,2,6,5,8,1,9,9
+R0581,V0581,"Houston, TX",Police Officer,No,4,10,5,8,11,1,9
+R0582,V0582,"Houston, TX",Police Officer,No,9,8,4,8,1,7,10
+R0583,V0583,"Houston, TX",Educator,No,1,3,4,9,12,5,7
+R0584,V0584,"Houston, TX",Educator,No,4,3,2,1,11,6,8
+R0585,V0585,"Houston, TX",Healthcare Worker,Yes,4,8,7,8,9,5,7
+R0586,V0586,"Houston, TX",Healthcare Worker,Yes,5,9,5,8,15,5,10
+R0587,V0587,"Houston, TX",Police Officer,Yes,6,8,6,2,15,4,8
+R0588,V0588,"Houston, TX",Healthcare Worker,Yes,3,9,6,5,10,6,9
+R0589,V0589,"Houston, TX",Police Officer,Yes,3,3,7,2,15,4,9
+R0590,V0590,"Houston, TX",Educator,No,3,7,9,5,8,4,6
+R0591,V0591,"Houston, TX",Healthcare Worker,No,6,3,6,1,8,2,8
+R0592,V0592,"Houston, TX",Police Officer,Yes,1,8,8,3,4,7,9
+R0593,V0593,"Houston, TX",Healthcare Worker,No,10,4,1,1,8,1,9
+R0594,V0594,"Houston, TX",Healthcare Worker,Yes,10,4,9,10,18,8,7
+R0595,V0595,"Houston, TX",Police Officer,No,3,8,6,6,3,8,9
+R0596,V0596,"Houston, TX",Healthcare Worker,No,9,6,8,3,4,3,9
+R0597,V0597,"Houston, TX",Healthcare Worker,Yes,8,9,8,1,16,10,7
+R0598,V0598,"Houston, TX",Police Officer,Yes,10,6,1,10,17,9,10
+R0599,V0599,"Houston, TX",Police Officer,Yes,7,6,9,1,6,5,7
+R0600,V0600,"Houston, TX",Healthcare Worker,No,9,2,9,8,8,10,10
+R0601,V0601,"Houston, TX",Healthcare Worker,Yes,10,5,7,1,15,3,9
+R0602,V0602,"Houston, TX",Educator,Yes,8,10,8,10,19,7,10
+R0603,V0603,"Houston, TX",Police Officer,Yes,10,5,5,8,17,4,5
+R0604,V0604,"Houston, TX",Healthcare Worker,No,1,3,1,1,4,10,8
+R0605,V0605,"Houston, TX",Educator,No,6,8,3,10,8,9,8
+R0606,V0606,"Houston, TX",Educator,No,2,7,5,10,1,10,5
+R0607,V0607,"Houston, TX",Educator,No,1,10,6,1,3,3,9
+R0608,V0608,"Houston, TX",Healthcare Worker,Yes,2,6,4,7,7,1,2
+R0609,V0609,"Houston, TX",Healthcare Worker,No,4,9,6,1,11,3,9
+R0610,V0610,"Houston, TX",Healthcare Worker,No,4,9,4,9,1,5,10
+R0611,V0611,"Houston, TX",Healthcare Worker,Yes,1,9,6,9,4,5,10
+R0612,V0612,"Houston, TX",Educator,No,6,8,3,2,20,2,10
+R0613,V0613,"Houston, TX",Healthcare Worker,No,7,6,9,1,19,2,9
+R0614,V0614,"Houston, TX",Educator,Yes,10,4,2,9,18,9,10
+R0615,V0615,"Houston, TX",Educator,No,7,1,5,9,8,5,7
+R0616,V0616,"Houston, TX",Police Officer,No,3,7,1,8,1,6,10
+R0617,V0617,"Houston, TX",Educator,No,6,4,2,3,3,6,7
+R0618,V0618,"Houston, TX",Educator,No,9,9,7,10,9,2,8
+R0619,V0619,"Houston, TX",Police Officer,No,5,2,5,7,8,5,7
+R0620,V0620,"Houston, TX",Police Officer,Yes,10,4,10,8,6,9,8
+R0621,V0621,"Houston, TX",Educator,No,8,1,2,9,10,7,9
+R0622,V0622,"Houston, TX",Healthcare Worker,No,2,5,8,4,3,2,10
+R0623,V0623,"Houston, TX",Healthcare Worker,No,4,1,7,6,2,6,1
+R0624,V0624,"Houston, TX",Healthcare Worker,No,2,5,7,1,1,1,9
+R0625,V0625,"Houston, TX",Healthcare Worker,Yes,5,9,8,10,15,1,9
+R0626,V0626,"Houston, TX",Police Officer,Yes,5,7,5,8,1,1,7
+R0627,V0627,"Houston, TX",Educator,Yes,8,3,10,10,7,6,2
+R0628,V0628,"Houston, TX",Educator,Yes,3,4,10,8,19,2,9
+R0629,V0629,"Houston, TX",Police Officer,Yes,3,2,8,7,6,2,7
+R0630,V0630,"Houston, TX",Educator,Yes,8,10,7,7,14,3,10
+R0631,V0631,"Houston, TX",Police Officer,Yes,4,10,7,7,19,2,7
+R0632,V0632,"Houston, TX",Police Officer,Yes,3,8,7,10,4,10,8
+R0633,V0633,"Houston, TX",Police Officer,No,3,1,5,6,9,2,10
+R0634,V0634,"Houston, TX",Police Officer,No,10,4,1,10,5,3,6
+R0635,V0635,"Houston, TX",Healthcare Worker,No,8,2,6,1,12,7,8
+R0636,V0636,"Houston, TX",Educator,Yes,1,10,6,5,8,6,4
+R0637,V0637,"Houston, TX",Healthcare Worker,No,6,8,4,3,11,8,7
+R0638,V0638,"Houston, TX",Educator,Yes,10,10,6,4,15,1,4
+R0639,V0639,"Houston, TX",Healthcare Worker,Yes,5,2,3,7,16,4,7
+R0640,V0640,"Houston, TX",Educator,Yes,5,5,7,8,4,5,8
+R0641,V0641,"Houston, TX",Healthcare Worker,No,3,6,6,2,4,10,8
+R0642,V0642,"Houston, TX",Healthcare Worker,No,4,7,4,6,15,9,8
+R0643,V0643,"Houston, TX",Police Officer,No,7,6,7,1,12,9,8
+R0644,V0644,"Houston, TX",Police Officer,No,5,9,6,6,19,1,9
+R0645,V0645,"Houston, TX",Educator,No,9,1,5,7,17,8,10
+R0646,V0646,"Houston, TX",Police Officer,No,8,9,10,3,4,1,9
+R0647,V0647,"Houston, TX",Educator,Yes,1,6,1,10,20,4,10
+R0648,V0648,"Houston, TX",Healthcare Worker,Yes,1,10,3,3,12,1,9
+R0649,V0649,"Houston, TX",Healthcare Worker,Yes,1,2,6,10,20,1,8
+R0650,V0650,"Houston, TX",Police Officer,Yes,4,4,1,8,11,3,10
+R0651,V0651,"Houston, TX",Educator,No,10,7,10,5,9,1,7
+R0652,V0652,"Houston, TX",Police Officer,Yes,2,4,1,8,5,4,8
+R0653,V0653,"Houston, TX",Educator,Yes,10,2,1,4,14,3,9
+R0654,V0654,"Houston, TX",Police Officer,No,1,3,7,3,3,4,10
+R0655,V0655,"Houston, TX",Educator,Yes,10,6,3,7,20,10,3
+R0656,V0656,"Houston, TX",Police Officer,No,6,8,5,4,2,2,9
+R0657,V0657,"Houston, TX",Healthcare Worker,No,7,1,9,3,10,2,8
+R0658,V0658,"Houston, TX",Healthcare Worker,Yes,4,9,8,3,5,3,9
+R0659,V0659,"Houston, TX",Healthcare Worker,Yes,9,3,1,9,7,5,8
+R0660,V0660,"Houston, TX",Healthcare Worker,No,6,6,4,1,6,10,10
+R0661,V0661,"Houston, TX",Educator,No,10,9,2,5,11,1,10
+R0662,V0662,"Houston, TX",Healthcare Worker,No,7,4,1,7,15,10,9
+R0663,V0663,"Houston, TX",Police Officer,Yes,4,1,6,6,19,2,9
+R0664,V0664,"Houston, TX",Healthcare Worker,No,2,2,3,10,14,4,10
+R0665,V0665,"Houston, TX",Educator,No,5,7,8,9,7,7,10
+R0666,V0666,"Houston, TX",Educator,Yes,5,8,5,5,8,1,7
+R0667,V0667,"Houston, TX",Police Officer,Yes,2,10,3,3,7,2,3
+R0668,V0668,"Houston, TX",Police Officer,Yes,4,6,10,8,18,2,1
+R0669,V0669,"Houston, TX",Police Officer,No,6,2,3,1,20,9,7
+R0670,V0670,"Houston, TX",Police Officer,No,10,9,5,2,8,6,10
+R0671,V0671,"Houston, TX",Educator,Yes,9,4,1,5,7,10,10
+R0672,V0672,"Houston, TX",Educator,No,3,1,2,10,17,1,9
+R0673,V0673,"Houston, TX",Police Officer,No,1,8,8,4,11,3,9
+R0674,V0674,"Houston, TX",Educator,Yes,9,1,2,7,5,10,10
+R0675,V0675,"Houston, TX",Educator,Yes,8,4,5,8,20,1,8
+R0676,V0676,"Houston, TX",Police Officer,No,2,9,6,1,20,10,10
+R0677,V0677,"Houston, TX",Healthcare Worker,Yes,5,7,7,2,9,4,8
+R0678,V0678,"Houston, TX",Educator,Yes,10,1,10,7,18,8,9
+R0679,V0679,"Houston, TX",Healthcare Worker,No,1,4,1,3,9,10,8
+R0680,V0680,"Houston, TX",Healthcare Worker,Yes,8,7,7,2,12,3,9
+R0681,V0681,"Houston, TX",Educator,No,7,1,2,10,13,9,9
+R0682,V0682,"Houston, TX",Educator,No,10,3,6,3,20,6,10
+R0683,V0683,"Houston, TX",Police Officer,Yes,10,5,7,3,11,5,10
+R0684,V0684,"Houston, TX",Educator,No,2,5,8,6,9,7,5
+R0685,V0685,"Houston, TX",Healthcare Worker,Yes,2,8,6,3,16,9,9
+R0686,V0686,"Houston, TX",Educator,No,1,9,7,5,11,2,9
+R0687,V0687,"Houston, TX",Healthcare Worker,Yes,4,5,7,4,7,9,10
+R0688,V0688,"Houston, TX",Healthcare Worker,No,10,4,6,7,4,6,9
+R0689,V0689,"Houston, TX",Healthcare Worker,No,7,7,9,5,14,5,3
+R0690,V0690,"Houston, TX",Police Officer,Yes,5,10,10,2,13,6,8
+R0691,V0691,"Houston, TX",Police Officer,Yes,8,1,4,2,20,2,8
+R0692,V0692,"Houston, TX",Healthcare Worker,Yes,7,7,4,7,13,3,10
+R0693,V0693,"Houston, TX",Police Officer,No,8,10,5,6,19,10,7
+R0694,V0694,"Houston, TX",Educator,Yes,10,2,1,5,17,4,7
+R0695,V0695,"Houston, TX",Educator,Yes,7,8,2,7,7,5,10
+R0696,V0696,"Houston, TX",Police Officer,No,9,9,9,2,4,10,9
+R0697,V0697,"Houston, TX",Police Officer,No,10,4,6,10,1,1,8
+R0698,V0698,"Houston, TX",Police Officer,No,2,8,8,8,9,9,7
+R0699,V0699,"Houston, TX",Educator,No,8,6,8,9,2,8,8
+R0700,V0700,"Houston, TX",Police Officer,No,10,6,6,5,10,10,7
+R0701,V0701,"Houston, TX",Police Officer,No,1,6,6,4,4,3,10
+R0702,V0702,"Houston, TX",Police Officer,No,10,3,10,10,7,1,7
+R0703,V0703,"Houston, TX",Healthcare Worker,Yes,4,2,8,6,20,7,8
+R0704,V0704,"Houston, TX",Police Officer,No,8,4,2,5,3,1,7
+R0705,V0705,"Houston, TX",Police Officer,Yes,2,2,8,2,18,7,6
+R0706,V0706,"Houston, TX",Healthcare Worker,Yes,8,10,6,2,19,9,7
+R0707,V0707,"Houston, TX",Educator,No,7,1,8,9,13,10,7
+R0708,V0708,"Houston, TX",Healthcare Worker,Yes,7,5,3,8,10,5,10
+R0709,V0709,"Houston, TX",Police Officer,No,6,10,5,4,12,6,7
+R0710,V0710,"Houston, TX",Police Officer,No,3,9,7,3,10,5,8
+R0711,V0711,"Houston, TX",Educator,No,5,6,7,1,7,10,8
+R0712,V0712,"Houston, TX",Healthcare Worker,No,4,8,6,4,8,2,10
+R0713,V0713,"Houston, TX",Healthcare Worker,No,8,9,9,3,13,10,7
+R0714,V0714,"Houston, TX",Healthcare Worker,No,8,4,9,6,12,4,10
+R0715,V0715,"Houston, TX",Police Officer,No,6,9,1,6,3,5,7
+R0716,V0716,"Houston, TX",Police Officer,No,7,6,1,1,3,5,9
+R0717,V0717,"Houston, TX",Educator,No,1,5,4,1,1,4,10
+R0718,V0718,"Houston, TX",Police Officer,No,4,3,3,3,1,10,6
+R0719,V0719,"Houston, TX",Educator,No,9,2,7,7,1,5,10
+R0720,V0720,"Houston, TX",Police Officer,No,3,8,8,4,10,7,7
+R0721,V0721,"Houston, TX",Healthcare Worker,Yes,9,8,1,1,19,9,6
+R0722,V0722,"Houston, TX",Police Officer,Yes,7,10,8,1,5,8,9
+R0723,V0723,"Houston, TX",Healthcare Worker,No,6,6,10,5,7,8,8
+R0724,V0724,"Houston, TX",Police Officer,Yes,6,10,9,5,2,9,9
+R0725,V0725,"Houston, TX",Police Officer,No,6,6,6,6,18,1,10
+R0726,V0726,"Houston, TX",Police Officer,No,6,1,8,2,4,8,10
+R0727,V0727,"Houston, TX",Police Officer,Yes,10,8,2,1,3,6,7
+R0728,V0728,"Houston, TX",Police Officer,No,8,8,1,10,16,6,10
+R0729,V0729,"Houston, TX",Educator,Yes,9,6,8,10,1,5,10
+R0730,V0730,"Houston, TX",Educator,No,10,3,2,6,3,10,7
+R0731,V0731,"Houston, TX",Educator,Yes,2,7,1,9,9,1,7
+R0732,V0732,"Houston, TX",Educator,No,4,4,7,9,4,4,8
+R0733,V0733,"Houston, TX",Police Officer,Yes,4,9,5,7,14,7,8
+R0734,V0734,"Houston, TX",Healthcare Worker,Yes,2,5,5,5,6,10,9
+R0735,V0735,"Houston, TX",Healthcare Worker,Yes,10,3,8,8,3,6,9
+R0736,V0736,"Houston, TX",Police Officer,Yes,8,5,8,3,10,3,10
+R0737,V0737,"Houston, TX",Healthcare Worker,Yes,8,4,3,4,16,6,5
+R0738,V0738,"Houston, TX",Healthcare Worker,No,8,2,7,10,16,6,9
+R0739,V0739,"Houston, TX",Police Officer,No,4,10,1,2,3,6,10
+R0740,V0740,"Houston, TX",Educator,Yes,1,2,4,2,4,3,7
+R0741,V0741,"Houston, TX",Healthcare Worker,Yes,3,10,8,6,2,5,10
+R0742,V0742,"Houston, TX",Police Officer,No,9,6,1,9,4,10,9
+R0743,V0743,"Houston, TX",Educator,Yes,4,6,5,5,19,10,7
+R0744,V0744,"Houston, TX",Healthcare Worker,Yes,6,2,4,1,20,1,8
+R0745,V0745,"Houston, TX",Police Officer,No,2,8,4,8,6,6,8
+R0746,V0746,"Houston, TX",Educator,Yes,5,1,1,6,9,7,9
+R0747,V0747,"Houston, TX",Healthcare Worker,Yes,3,7,9,10,14,1,9
+R0748,V0748,"Houston, TX",Educator,No,7,6,9,8,6,5,8
+R0749,V0749,"Houston, TX",Educator,Yes,7,4,8,2,10,8,8
+R0750,V0750,"Houston, TX",Police Officer,No,10,1,4,4,5,4,8
+R0751,V0751,"Houston, TX",Police Officer,Yes,5,7,7,3,6,7,9
+R0752,V0752,"Houston, TX",Healthcare Worker,No,8,10,6,1,3,7,9
+R0753,V0753,"Houston, TX",Healthcare Worker,No,1,1,5,8,12,9,7
+R0754,V0754,"Houston, TX",Educator,No,7,10,3,7,7,1,7
+R0755,V0755,"Houston, TX",Educator,No,6,8,2,10,9,8,7
+R0756,V0756,"Houston, TX",Healthcare Worker,Yes,8,3,8,1,19,2,9
+R0757,V0757,"Houston, TX",Police Officer,No,7,1,4,1,5,8,9
+R0758,V0758,"Houston, TX",Educator,No,10,6,9,8,1,10,7
+R0759,V0759,"Houston, TX",Healthcare Worker,No,7,9,8,1,17,10,7
+R0760,V0760,"Houston, TX",Educator,No,6,4,7,1,17,6,8
+R0761,V0761,"Houston, TX",Police Officer,Yes,9,7,7,1,12,9,7
+R0762,V0762,"Houston, TX",Educator,Yes,3,5,1,10,5,2,8
+R0763,V0763,"Houston, TX",Healthcare Worker,No,2,7,7,3,3,8,7
+R0764,V0764,"Houston, TX",Police Officer,No,3,10,9,9,1,7,7
+R0765,V0765,"Houston, TX",Educator,No,9,10,8,8,2,8,8
+R0766,V0766,"Houston, TX",Police Officer,No,2,9,9,7,5,5,8
+R0767,V0767,"Houston, TX",Police Officer,Yes,4,9,7,4,9,2,10
+R0768,V0768,"Houston, TX",Healthcare Worker,No,9,5,10,5,3,3,7
+R0769,V0769,"Houston, TX",Healthcare Worker,No,10,8,3,5,15,8,7
+R0770,V0770,"Houston, TX",Police Officer,Yes,5,3,1,5,6,8,6
+R0771,V0771,"Houston, TX",Educator,Yes,7,3,4,9,16,4,10
+R0772,V0772,"Houston, TX",Educator,Yes,7,8,10,1,9,4,8
+R0773,V0773,"Houston, TX",Educator,Yes,5,3,2,4,2,3,9
+R0774,V0774,"Houston, TX",Healthcare Worker,Yes,3,3,10,10,2,1,8
+R0775,V0775,"Houston, TX",Police Officer,No,6,6,5,2,7,9,7
+R0776,V0776,"Houston, TX",Police Officer,Yes,5,5,10,5,13,3,9
+R0777,V0777,"Houston, TX",Police Officer,Yes,1,8,6,7,4,2,7
+R0778,V0778,"Houston, TX",Educator,No,8,1,3,6,8,2,7
+R0779,V0779,"Houston, TX",Educator,Yes,10,7,6,5,9,9,7
+R0780,V0780,"Houston, TX",Educator,No,7,8,5,3,4,6,4
+R0781,V0781,"Houston, TX",Healthcare Worker,No,10,8,8,4,8,9,9
+R0782,V0782,"Houston, TX",Police Officer,No,7,7,2,1,8,4,2
+R0783,V0783,"Houston, TX",Police Officer,Yes,3,2,8,6,12,3,10
+R0784,V0784,"Houston, TX",Educator,Yes,6,5,4,2,2,6,9
+R0785,V0785,"Houston, TX",Police Officer,No,4,8,9,6,12,7,8
+R0786,V0786,"Houston, TX",Healthcare Worker,No,4,10,7,10,1,10,8
+R0787,V0787,"Houston, TX",Healthcare Worker,Yes,8,3,7,7,8,8,9
+R0788,V0788,"Houston, TX",Police Officer,Yes,7,8,4,7,13,3,8
+R0789,V0789,"Houston, TX",Healthcare Worker,No,2,6,8,6,13,9,10
+R0790,V0790,"Houston, TX",Healthcare Worker,No,2,1,5,8,2,3,7
+R0791,V0791,"Houston, TX",Healthcare Worker,No,2,9,6,6,6,6,7
+R0792,V0792,"Houston, TX",Healthcare Worker,No,10,9,10,7,12,9,8
+R0793,V0793,"Houston, TX",Healthcare Worker,No,3,7,5,1,3,9,8
+R0794,V0794,"Houston, TX",Police Officer,No,8,1,7,1,4,8,10
+R0795,V0795,"Houston, TX",Police Officer,Yes,9,5,4,2,9,6,10
+R0796,V0796,"Houston, TX",Educator,No,1,5,2,8,6,5,8
+R0797,V0797,"Houston, TX",Police Officer,Yes,6,2,10,5,14,4,10
+R0798,V0798,"Houston, TX",Educator,Yes,6,6,6,9,6,7,8
+R0799,V0799,"Houston, TX",Police Officer,Yes,8,1,6,4,6,7,10
+R0800,V0800,"Houston, TX",Police Officer,Yes,9,9,9,2,11,8,8
+R0801,V0801,"Houston, TX",Healthcare Worker,No,6,8,1,2,3,10,7
+R0802,V0802,"Houston, TX",Healthcare Worker,Yes,10,7,1,10,19,2,7
+R0803,V0803,"Houston, TX",Healthcare Worker,No,4,2,6,10,10,1,10
+R0804,V0804,"Houston, TX",Police Officer,No,2,5,3,4,18,10,8
+R0805,V0805,"Houston, TX",Healthcare Worker,No,10,1,10,2,5,6,10
+R0806,V0806,"Houston, TX",Police Officer,Yes,2,8,7,3,16,5,9
+R0807,V0807,"Houston, TX",Educator,Yes,5,5,1,9,8,1,8
+R0808,V0808,"Houston, TX",Police Officer,Yes,10,4,4,9,20,4,7
+R0809,V0809,"Houston, TX",Police Officer,No,3,7,9,5,18,3,9
+R0810,V0810,"Houston, TX",Educator,No,10,5,7,7,16,9,10
+R0811,V0811,"Houston, TX",Educator,No,3,6,5,9,13,4,8
+R0812,V0812,"Houston, TX",Healthcare Worker,Yes,2,3,6,3,10,7,7
+R0813,V0813,"Houston, TX",Educator,No,8,9,2,5,20,3,8
+R0814,V0814,"Houston, TX",Educator,No,9,5,3,1,19,5,7
+R0815,V0815,"Houston, TX",Police Officer,No,5,6,1,3,18,5,7
+R0816,V0816,"Houston, TX",Police Officer,No,1,9,5,9,11,4,5
+R0817,V0817,"Houston, TX",Educator,No,3,8,8,7,13,4,7
+R0818,V0818,"Houston, TX",Healthcare Worker,Yes,6,2,10,7,17,6,7
+R0819,V0819,"Houston, TX",Educator,No,7,10,8,1,19,5,9
+R0820,V0820,"Houston, TX",Healthcare Worker,No,10,5,8,8,12,7,7
+R0821,V0821,"Houston, TX",Healthcare Worker,No,7,9,7,4,3,10,8
+R0822,V0822,"Houston, TX",Police Officer,No,9,3,3,10,19,6,10
+R0823,V0823,"Houston, TX",Educator,Yes,2,8,4,2,13,1,7
+R0824,V0824,"Houston, TX",Educator,Yes,2,6,3,10,3,2,8
+R0825,V0825,"Houston, TX",Healthcare Worker,No,5,7,3,5,12,3,10
+R0826,V0826,"Houston, TX",Police Officer,No,8,7,4,9,9,10,7
+R0827,V0827,"Houston, TX",Educator,No,7,10,8,9,14,6,3
+R0828,V0828,"Houston, TX",Educator,Yes,8,2,3,1,19,2,7
+R0829,V0829,"Houston, TX",Police Officer,Yes,2,7,6,8,18,8,8
+R0830,V0830,"Houston, TX",Educator,No,10,1,10,3,2,1,9
+R0831,V0831,"Houston, TX",Healthcare Worker,Yes,1,1,5,6,1,3,8
+R0832,V0832,"Houston, TX",Educator,Yes,6,7,4,10,17,1,9
+R0833,V0833,"Houston, TX",Police Officer,Yes,2,2,10,5,14,4,9
+R0834,V0834,"Houston, TX",Healthcare Worker,Yes,10,8,6,3,9,7,9
+R0835,V0835,"Houston, TX",Police Officer,Yes,9,10,3,7,20,3,8
+R0836,V0836,"Houston, TX",Police Officer,No,10,8,5,2,12,6,8
+R0837,V0837,"Houston, TX",Police Officer,No,3,5,6,10,10,7,8
+R0838,V0838,"Houston, TX",Police Officer,No,3,8,4,1,19,4,10
+R0839,V0839,"Houston, TX",Educator,No,8,1,3,9,15,4,8
+R0840,V0840,"Houston, TX",Educator,Yes,6,9,2,6,3,2,9
+R0841,V0841,"Houston, TX",Police Officer,Yes,8,5,5,5,9,3,10
+R0842,V0842,"Houston, TX",Police Officer,Yes,6,4,8,6,1,10,9
+R0843,V0843,"Houston, TX",Police Officer,No,5,2,8,2,16,5,3
+R0844,V0844,"Houston, TX",Healthcare Worker,Yes,6,6,3,5,8,8,9
+R0845,V0845,"Houston, TX",Healthcare Worker,Yes,9,3,9,6,19,10,7
+R0846,V0846,"Houston, TX",Police Officer,Yes,5,1,9,3,1,9,9
+R0847,V0847,"Houston, TX",Police Officer,No,5,10,9,10,13,8,8
+R0848,V0848,"Houston, TX",Police Officer,No,4,6,2,1,20,8,9
+R0849,V0849,"Houston, TX",Educator,No,3,9,9,7,16,3,9
+R0850,V0850,"Houston, TX",Educator,No,6,7,1,3,10,3,9
+R0851,V0851,"Houston, TX",Police Officer,No,1,4,9,3,4,1,4
+R0852,V0852,"Houston, TX",Police Officer,Yes,9,3,4,3,6,4,10
+R0853,V0853,"Houston, TX",Police Officer,Yes,6,3,4,9,11,3,7
+R0854,V0854,"Houston, TX",Police Officer,No,5,3,7,9,10,7,10
+R0855,V0855,"Houston, TX",Healthcare Worker,No,2,2,4,7,4,2,10
+R0856,V0856,"Houston, TX",Educator,No,9,3,10,10,5,7,7
+R0857,V0857,"Houston, TX",Educator,Yes,7,2,2,4,20,9,8
+R0858,V0858,"Houston, TX",Police Officer,No,10,8,10,8,19,3,8
+R0859,V0859,"Houston, TX",Healthcare Worker,No,4,4,2,1,3,7,9
+R0860,V0860,"Houston, TX",Police Officer,No,2,1,6,10,15,8,1
+R0861,V0861,"Houston, TX",Police Officer,Yes,5,4,5,8,6,8,7
+R0862,V0862,"Houston, TX",Police Officer,Yes,2,9,5,1,6,1,9
+R0863,V0863,"Houston, TX",Police Officer,Yes,8,7,7,6,19,5,10
+R0864,V0864,"Houston, TX",Police Officer,Yes,7,9,4,8,15,7,8
+R0865,V0865,"Houston, TX",Educator,Yes,2,2,7,8,6,5,8
+R0866,V0866,"Houston, TX",Healthcare Worker,No,8,2,1,10,6,1,8
+R0867,V0867,"Houston, TX",Educator,No,6,3,10,2,16,7,10
+R0868,V0868,"Houston, TX",Healthcare Worker,Yes,5,10,8,3,11,4,10
+R0869,V0869,"Houston, TX",Healthcare Worker,No,4,4,4,10,20,5,10
+R0870,V0870,"Houston, TX",Healthcare Worker,Yes,5,3,10,8,17,8,10
+R0871,V0871,"Houston, TX",Police Officer,No,2,1,10,2,12,8,10
+R0872,V0872,"Houston, TX",Healthcare Worker,No,2,3,9,2,9,4,8
+R0873,V0873,"Houston, TX",Police Officer,Yes,5,5,1,2,9,3,7
+R0874,V0874,"Houston, TX",Healthcare Worker,Yes,6,10,2,5,12,2,9
+R0875,V0875,"Houston, TX",Educator,Yes,10,2,8,1,14,8,10
+R0876,V0876,"Houston, TX",Educator,Yes,2,2,5,5,16,6,7
+R0877,V0877,"Houston, TX",Healthcare Worker,Yes,3,9,5,1,17,3,3
+R0878,V0878,"Houston, TX",Educator,Yes,9,6,6,4,2,1,7
+R0879,V0879,"Houston, TX",Police Officer,No,4,4,6,9,17,1,9
+R0880,V0880,"Houston, TX",Police Officer,No,7,10,1,8,14,3,7
+R0881,V0881,"Houston, TX",Police Officer,No,5,7,4,10,15,10,9
+R0882,V0882,"Houston, TX",Police Officer,No,8,4,3,5,2,8,8
+R0883,V0883,"Houston, TX",Police Officer,No,10,9,9,8,2,10,10
+R0884,V0884,"Houston, TX",Police Officer,No,8,5,3,3,11,5,8
+R0885,V0885,"Houston, TX",Healthcare Worker,No,6,7,5,8,5,9,8
+R0886,V0886,"Houston, TX",Educator,Yes,5,1,5,3,15,3,10
+R0887,V0887,"Houston, TX",Educator,Yes,3,2,6,6,2,4,10
+R0888,V0888,"Houston, TX",Police Officer,Yes,1,8,1,10,11,10,7
+R0889,V0889,"Houston, TX",Police Officer,Yes,9,2,5,4,8,7,9
+R0890,V0890,"Houston, TX",Police Officer,Yes,5,5,6,8,18,7,10
+R0891,V0891,"Houston, TX",Healthcare Worker,Yes,10,8,10,9,19,5,8
+R0892,V0892,"Houston, TX",Police Officer,No,10,5,8,3,9,7,8
+R0893,V0893,"Houston, TX",Healthcare Worker,No,2,5,9,2,12,9,9
+R0894,V0894,"Houston, TX",Healthcare Worker,No,2,3,5,3,6,8,9
+R0895,V0895,"Houston, TX",Educator,Yes,5,6,1,8,15,8,5
+R0896,V0896,"Houston, TX",Healthcare Worker,No,6,8,9,4,20,6,9
+R0897,V0897,"Houston, TX",Healthcare Worker,No,4,4,2,6,12,5,9
+R0898,V0898,"Houston, TX",Police Officer,Yes,4,6,3,6,3,8,8
+R0899,V0899,"Houston, TX",Police Officer,No,7,2,2,10,13,4,8
+R0900,V0900,"Houston, TX",Healthcare Worker,No,4,7,8,1,3,6,9
+R0901,V0901,"Houston, TX",Educator,Yes,5,4,5,2,17,7,7
+R0902,V0902,"Houston, TX",Educator,Yes,2,9,3,6,15,4,7
+R0903,V0903,"Houston, TX",Healthcare Worker,Yes,3,8,7,5,12,8,8
+R0904,V0904,"Houston, TX",Educator,Yes,7,3,9,5,12,8,8
+R0905,V0905,"Houston, TX",Police Officer,No,6,6,1,3,9,10,8
+R0906,V0906,"Houston, TX",Healthcare Worker,No,7,4,9,7,12,6,10
+R0907,V0907,"Houston, TX",Healthcare Worker,No,10,10,8,5,17,1,10
+R0908,V0908,"Houston, TX",Educator,Yes,2,6,2,3,5,1,8
+R0909,V0909,"Houston, TX",Educator,No,6,10,3,8,15,9,9
+R0910,V0910,"Houston, TX",Police Officer,No,1,5,1,6,7,1,9
+R0911,V0911,"Houston, TX",Educator,Yes,3,8,6,2,9,10,10
+R0912,V0912,"Houston, TX",Educator,Yes,7,8,1,6,15,4,7
+R0913,V0913,"Houston, TX",Healthcare Worker,No,6,7,5,9,8,4,10
+R0914,V0914,"Houston, TX",Educator,No,2,8,5,5,9,4,9
+R0915,V0915,"Houston, TX",Healthcare Worker,Yes,2,7,3,7,17,3,7
+R0916,V0916,"Houston, TX",Healthcare Worker,Yes,3,7,2,5,2,9,9
+R0917,V0917,"Houston, TX",Educator,No,5,7,4,10,16,8,7
+R0918,V0918,"Houston, TX",Police Officer,Yes,5,8,6,3,6,2,10
+R0919,V0919,"Houston, TX",Police Officer,No,10,6,10,3,17,3,6
+R0920,V0920,"Houston, TX",Educator,No,7,3,6,9,2,4,7
+R0921,V0921,"Houston, TX",Educator,Yes,4,2,10,8,5,6,10
+R0922,V0922,"Houston, TX",Educator,No,7,1,4,2,14,10,8
+R0923,V0923,"Houston, TX",Healthcare Worker,Yes,1,8,8,7,1,4,7
+R0924,V0924,"Houston, TX",Police Officer,No,8,8,3,3,18,10,8
+R0925,V0925,"Houston, TX",Educator,Yes,7,3,10,7,10,8,8
+R0926,V0926,"Houston, TX",Healthcare Worker,No,10,3,9,3,6,9,8
+R0927,V0927,"Houston, TX",Police Officer,Yes,6,1,9,9,4,9,8
+R0928,V0928,"Houston, TX",Healthcare Worker,Yes,3,3,3,7,9,5,8
+R0929,V0929,"Houston, TX",Healthcare Worker,Yes,1,2,10,7,3,9,10
+R0930,V0930,"Houston, TX",Police Officer,No,7,5,2,7,14,10,4
+R0931,V0931,"Houston, TX",Police Officer,Yes,7,6,2,6,1,10,8
+R0932,V0932,"Houston, TX",Police Officer,No,2,5,10,6,7,10,8
+R0933,V0933,"Houston, TX",Police Officer,Yes,5,3,9,7,3,1,8
+R0934,V0934,"Houston, TX",Educator,No,2,2,6,7,2,7,9
+R0935,V0935,"Houston, TX",Healthcare Worker,No,4,2,7,9,11,1,6
+R0936,V0936,"Houston, TX",Healthcare Worker,Yes,3,9,2,6,19,5,9
+R0937,V0937,"Houston, TX",Educator,No,5,7,9,4,19,3,7
+R0938,V0938,"Houston, TX",Police Officer,No,8,8,10,3,3,1,8
+R0939,V0939,"Houston, TX",Healthcare Worker,Yes,3,8,6,8,17,3,8
+R0940,V0940,"Houston, TX",Police Officer,No,5,2,9,4,15,7,9
+R0941,V0941,"Houston, TX",Healthcare Worker,No,4,9,4,7,20,10,10
+R0942,V0942,"Houston, TX",Healthcare Worker,Yes,8,3,7,3,15,8,8
+R0943,V0943,"Houston, TX",Police Officer,Yes,4,3,6,2,17,2,7
+R0944,V0944,"Houston, TX",Healthcare Worker,Yes,9,9,4,4,17,10,8
+R0945,V0945,"Houston, TX",Police Officer,Yes,10,9,8,8,1,6,8
+R0946,V0946,"Houston, TX",Healthcare Worker,Yes,10,10,4,2,3,8,9
+R0947,V0947,"Houston, TX",Healthcare Worker,Yes,7,8,1,1,15,4,9
+R0948,V0948,"Houston, TX",Healthcare Worker,No,9,3,8,4,6,3,9
+R0949,V0949,"Houston, TX",Educator,Yes,3,5,1,10,11,8,5
+R0950,V0950,"Houston, TX",Police Officer,Yes,4,4,6,10,3,1,7
+R0951,V0951,"Houston, TX",Healthcare Worker,Yes,8,2,6,3,3,2,10
+R0952,V0952,"Houston, TX",Healthcare Worker,No,5,9,5,6,7,6,8
+R0953,V0953,"Houston, TX",Healthcare Worker,No,9,9,6,4,10,1,8
+R0954,V0954,"Houston, TX",Educator,No,1,9,2,9,10,2,10
+R0955,V0955,"Houston, TX",Police Officer,No,7,7,9,5,18,3,8
+R0956,V0956,"Houston, TX",Educator,No,4,6,7,7,20,5,9
+R0957,V0957,"Houston, TX",Educator,Yes,10,1,6,10,10,6,9
+R0958,V0958,"Houston, TX",Police Officer,No,3,9,8,1,8,9,9
+R0959,V0959,"Houston, TX",Educator,Yes,5,5,7,6,17,10,8
+R0960,V0960,"Houston, TX",Educator,Yes,2,9,1,6,5,2,10
+R0961,V0961,"Houston, TX",Police Officer,No,7,10,6,10,9,5,10
+R0962,V0962,"Houston, TX",Police Officer,No,4,7,7,1,7,3,7
+R0963,V0963,"Houston, TX",Police Officer,No,8,5,7,1,14,2,7
+R0964,V0964,"Houston, TX",Educator,Yes,7,4,3,8,8,5,10
+R0965,V0965,"Houston, TX",Educator,Yes,7,1,2,10,2,1,8
+R0966,V0966,"Houston, TX",Healthcare Worker,No,10,5,10,3,6,2,9
+R0967,V0967,"Houston, TX",Healthcare Worker,Yes,9,7,3,3,17,10,8
+R0968,V0968,"Houston, TX",Police Officer,Yes,1,5,10,1,8,7,8
+R0969,V0969,"Houston, TX",Police Officer,No,3,5,5,3,15,4,4
+R0970,V0970,"Houston, TX",Police Officer,No,1,6,2,2,8,1,10
+R0971,V0971,"Houston, TX",Healthcare Worker,Yes,2,6,2,1,11,9,8
+R0972,V0972,"Houston, TX",Police Officer,Yes,9,1,2,2,5,5,9
+R0973,V0973,"Houston, TX",Healthcare Worker,No,6,7,4,2,3,6,8
+R0974,V0974,"Houston, TX",Healthcare Worker,No,3,5,5,3,9,3,7
+R0975,V0975,"Houston, TX",Police Officer,Yes,1,9,5,2,13,6,9
+R0976,V0976,"Houston, TX",Healthcare Worker,No,1,2,5,10,14,2,10
+R0977,V0977,"Houston, TX",Police Officer,Yes,1,6,2,9,20,8,9
+R0978,V0978,"Houston, TX",Healthcare Worker,No,9,3,10,7,10,8,9
+R0979,V0979,"Houston, TX",Healthcare Worker,Yes,2,8,6,6,18,10,8
+R0980,V0980,"Houston, TX",Healthcare Worker,Yes,3,5,7,5,16,10,7
+R0981,V0981,"Houston, TX",Healthcare Worker,Yes,6,7,6,8,19,4,5
+R0982,V0982,"Houston, TX",Healthcare Worker,Yes,2,7,2,6,9,10,9
+R0983,V0983,"Houston, TX",Healthcare Worker,No,8,4,10,2,13,10,8
+R0984,V0984,"Houston, TX",Police Officer,Yes,5,2,5,9,15,4,9
+R0985,V0985,"Houston, TX",Healthcare Worker,Yes,1,7,3,8,3,10,7
+R0986,V0986,"Houston, TX",Police Officer,Yes,5,2,10,2,8,2,10
+R0987,V0987,"Houston, TX",Healthcare Worker,Yes,2,8,1,10,15,1,9
+R0988,V0988,"Houston, TX",Healthcare Worker,Yes,1,4,9,2,7,2,9
+R0989,V0989,"Houston, TX",Police Officer,No,10,8,4,10,9,9,8
+R0990,V0990,"Houston, TX",Educator,Yes,2,5,3,8,8,3,9
+R0991,V0991,"Houston, TX",Educator,Yes,8,5,6,5,5,1,7
+R0992,V0992,"Houston, TX",Healthcare Worker,Yes,9,3,8,4,12,2,7
+R0993,V0993,"Houston, TX",Healthcare Worker,Yes,7,7,7,5,13,8,10
+R0994,V0994,"Houston, TX",Healthcare Worker,No,5,4,4,9,18,2,7
+R0995,V0995,"Houston, TX",Police Officer,Yes,8,1,8,7,3,10,7
+R0996,V0996,"Houston, TX",Educator,No,7,8,6,3,17,2,7
+R0997,V0997,"Houston, TX",Police Officer,No,5,6,5,10,19,2,8
+R0998,V0998,"Houston, TX",Healthcare Worker,No,2,1,8,9,13,3,7
+R0999,V0999,"Houston, TX",Healthcare Worker,No,3,8,9,10,10,6,2
+R1000,V1000,"Houston, TX",Police Officer,No,1,2,2,6,14,10,7
